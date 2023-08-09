@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_1", "Hillel-C_sharp_pro-homework_4\Task_1.csproj", "{95A86E6E-21D6-4FA7-85D2-C56BD44905A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Task_2\Task_2.csproj", "{C3C5EC77-A8E7-4B0D-89D8-ACB562D50A47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{95A86E6E-21D6-4FA7-85D2-C56BD44905A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95A86E6E-21D6-4FA7-85D2-C56BD44905A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95A86E6E-21D6-4FA7-85D2-C56BD44905A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C5EC77-A8E7-4B0D-89D8-ACB562D50A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C5EC77-A8E7-4B0D-89D8-ACB562D50A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C5EC77-A8E7-4B0D-89D8-ACB562D50A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C5EC77-A8E7-4B0D-89D8-ACB562D50A47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
