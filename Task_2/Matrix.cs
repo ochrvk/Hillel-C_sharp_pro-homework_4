@@ -1,7 +1,4 @@
-﻿using System;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace Task_2
+﻿namespace Task_2
 {
     public class Matrix
     {
@@ -11,8 +8,6 @@ namespace Task_2
             _columns = columns;
             _array = new int[rows, columns];
         }
-
-
 
         private int _rows;
         private int _columns;
